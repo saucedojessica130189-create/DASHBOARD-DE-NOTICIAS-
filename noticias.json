@@ -1,9 +1,1367 @@
 {
-  "generated_at": null,
-  "status": "pending",
-  "sources_ok": 0,
-  "sources_total": 5,
-  "new_articles": 0,
-  "errors": [],
-  "articles": []
+  "generated_at": "2026-11-19T02:40:36.043955Z",
+  "status": "partial",
+  "sources_ok": 7,
+  "sources_total": 13,
+  "new_articles": 150,
+  "errors": [
+    "Google News / México: HTTPError: HTTP Error 503: Service Unavailable",
+    "El Economista vía Google News: HTTPError: HTTP Error 503: Service Unavailable",
+    "Google News / EE. UU.: HTTPError: HTTP Error 503: Service Unavailable",
+    "Yahoo Finance vía Google News: HTTPError: HTTP Error 503: Service Unavailable",
+    "Reuters vía Google News: HTTPError: HTTP Error 503: Service Unavailable",
+    "Google News / Política: HTTPError: HTTP Error 503: Service Unavailable"
+  ],
+  "articles": [
+    {
+      "id": "4f0ccdd92e1cdda3a7310b8e",
+      "title": "Dow Jones Futures Rise; Anthropic IPO Prices High, Palo Alto And Everpure Rally On Earnings",
+      "url": "https://finance.yahoo.com/m/107e5a2c-4fba-3df3-b2fd-5d1160e65516/dow-jones-futures-rise%3B.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T02:29:49Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "b6db5e699a16686893d7b2c3",
+      "title": "Japan’s Datasection slumps on big guidance cut amid U.S.-China chip access row",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/japan-datasection-slumps-big-guidance-022320105.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T02:23:20Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "5339aa3fb89c99e862bd337d",
+      "title": "What NICE (TASE:NICE)'s Microsoft AI Tie Up Means For Shareholders",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nice-tase-nice-microsoft-ai-021948606.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T02:19:48Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "db0216f863f57fe982ae371f",
+      "title": "Is Anthropic’s IPO a Good Reason to Buy Ginkgo Bioworks Right Now?",
+      "url": "https://www.fool.com/investing/2026/11/18/anthropic-ipo-good-reason-buy-ginkgo-bioworks-right-now/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T02:16:27Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "c116dab935acb65f53272ddc",
+      "title": "CEO Scandals Typically Cost About 1%. Here’s Why It’s Different for Nvidia",
+      "url": "https://www.tikr.com/blog/ceo-scandals-typically-cost-about-1-heres-why-its-different-for-nvidia?ref=yahoofinance&tlnk=yf-261118-hwcfj8vh&.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T02:13:18Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "e15ee6788a3a97ec1bb8cc18",
+      "title": "Why BellRing Brands Stock Surged Today",
+      "url": "https://www.fool.com/investing/2026/11/18/why-bellring-brands-stock-surged-today/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T02:12:42Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "6a91d4d4232ee3ec99cc4dcb",
+      "title": "‘Nothing Wrong With NVDA Or AI Trade’: Kenny Polcari Says Fed’s Inflation Concerns Are The Bigger Market Risk",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nothing-wrong-with-nvda-or-ai-trade-kenny-polcari-says-fed-s-inflation-concerns-are-the-bigger-market-risk/cNbLtYVR9ia?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T02:10:44Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "a444c93b3864fced20a302c2",
+      "title": "Wall Street futures climb ahead of Anthropic’s $1.5 trillion mega IPO",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-climb-ahead-020729605.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T02:07:29Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "2f838e39334e28395ebbac70",
+      "title": "Anthropic Priced Its IPO at $83. Here's What I'd Pay for the Stock.",
+      "url": "https://www.fool.com/investing/2026/11/18/anthropic-priced-its-ipo-at-usd83-here-s-what-i-d-pay-for-the-stock/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T01:50:02Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "ed5a882fb31bea06748494a3",
+      "title": "Trump Hails ‘Great’ Ties With Xi, Downplays Nvidia Spy Scandal",
+      "url": "https://finance.yahoo.com/economy/policy/articles/trump-hails-great-ties-xi-014442789.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T01:44:42Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "45db81db174d6a1445351e61",
+      "title": "Anthropic Prices IPO at $83 a Share, Raising $81.3 Billion in Largest Listing on Record",
+      "url": "https://www.cryptoprowl.com/releases/anthropic-prices-ipo-at-83-a-share-raising-813-billion-in-largest-listing-on-record-7975?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T01:40:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "b20390629ad7f25edabcd025",
+      "title": "Trump Suggests US Can Sell Blackwell Chips to China in Future",
+      "url": "https://finance.yahoo.com/technology/ai/articles/trump-suggests-us-sell-blackwell-013901504.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T01:39:01Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "ae0e34da864805247b69a7a6",
+      "title": "Why Peabody Energy Stock Slumped Today",
+      "url": "https://www.fool.com/investing/2026/11/18/why-peabody-energy-stock-slumped-today/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T01:29:22Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "1bf58b7c6966f0e555fa7037",
+      "title": "Warren Buffett Expects Berkshire Hathaway (BRKA, BRKB) Stock to Drop About 50% Again Someday. Here's What He Says to Do Then.",
+      "url": "https://www.fool.com/investing/2026/11/18/warren-buffett-expects-berkshire-hathaway-brka-brk/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T01:25:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "1c93d956e68100aadafc2d81",
+      "title": "Nvidia Moves Up Raises and Stock Grants After Jensen Huang Exit",
+      "url": "https://beincrypto.com/nvidia-pay-raises-jensen-huang-exit/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T01:11:35Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "a6dc2f98ff5f0a4bf8f601fa",
+      "title": "Why Bullish Stock Crushed it on Wednesday",
+      "url": "https://www.fool.com/investing/2026/11/18/why-bullish-stock-crushed-it-on-wednesday/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T01:03:20Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "c1c9df8b106c891b4c1058ba",
+      "title": "Stock-Split Watch: Is Micron Next?",
+      "url": "https://www.fool.com/investing/2026/11/18/stock-split-watch-is-micron-next/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T01:03:02Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "c3b68ff7e76000dafd224c2f",
+      "title": "Hot demand lifts Anthropic IPO price to $83 a share, breaks SpaceX's record raise",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-set-price-ipo-key-030309911.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T01:02:05Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "3b042fcb836a1d20ac5a358c",
+      "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-19T01:02:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "914e57278c70c6aae96e6b92",
+      "title": "Corning CEO on working with Steve Jobs to make screens for the first iPhone",
+      "url": "https://finance.yahoo.com/video/corning-ceo-working-steve-jobs-010013740.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T01:00:13Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "58e315addd98715409fd17a2",
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-19T01:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "6a3da2c973a28cb6b3fcd6e2",
+      "title": "3 Investments to Give a Child This Holiday Season and Leave Alone Until 2040",
+      "url": "https://www.fool.com/investing/2026/11/18/3-investments-to-give-a-child-this-holiday-season-and-leave-alone-until-2040/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T00:58:02Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "28f38dff0d064c667f0a3f40",
+      "title": "Review & Preview: Anthropic’s Moment",
+      "url": "https://finance.yahoo.com/m/e82fbe94-96bd-3f01-9a6d-8bc83fca71ad/review-%26-preview%3A-anthropic%E2%80%99s.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T00:55:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "f7e7e8886eb4a02d89464668",
+      "title": "GE Vernova Down 24%: What Would Its CEO Say?",
+      "url": "https://www.trefis.com/stock/gev/articles/625753/ge-vernova-down-24-what-would-its-ceo-say/2026-11-18?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T00:36:26Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "696abe4484fdd2707f59aa91",
+      "title": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
+      "url": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-19T00:31:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "13cc81829ab931a5fc76c2e3",
+      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-19T00:30:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "ce4ff2855c36d21189fc023c",
+      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T00:30:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "b7127e83e71de91f1aa1bb34",
+      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+      "url": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-19T00:08:14Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "be04fa80a2ee28e14a24998f",
+      "title": "Is Alphabet Stock a Buy Right Now?",
+      "url": "https://www.fool.com/investing/2026/11/18/is-alphabet-stock-a-buy-right-now/?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-18T23:57:02Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "7fd347240f79685c4668a996",
+      "title": "What Explains Natera Stock's Nearly 10% Drop?",
+      "url": "https://www.trefis.com/stock/ntra/articles/625786/what-explains-natera-stocks-nearly-10-drop/2026-11-18?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-18T23:48:38Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "e10c7596874177cdb1b18d8e",
+      "title": "Generac Jolted After Nvidia Earnings. Why It’s a Top S&P 500 Stock Today.",
+      "url": "https://finance.yahoo.com/m/2a874b3f-665f-3bd7-a6b1-4124608554ec/generac-jolted-after-nvidia.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-18T23:47:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "d944e078b0502832d21dfcff",
+      "title": "What Moved Coupang Stock Over 5% Lower?",
+      "url": "https://www.trefis.com/stock/cpng/articles/625841/what-moved-coupang-stock-over-5-lower/2026-11-18?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-18T23:42:56Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "a627bc0d97b16fb4eb387877",
+      "title": "Thinking About Buying Anthropic’s IPO on Nov. 19? Here’s an AI Stock I’d Consider First (Hint: It’s Not Nvidia or Broadcom).",
+      "url": "https://www.fool.com/investing/2026/11/18/thinking-about-buying-anthropic-s-ipo-on-nov-19-here-s-an-ai-stock-i-d-consider-first-hint-it-s-not-nvidia-or-broadcom/?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-18T23:35:02Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "9c3c9001b0262fec280d6e49",
+      "title": "Is Chewy (CHWY) Cheap Or Pricey On Its December 9 Earnings Date?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chewy-chwy-cheap-pricey-december-232335742.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-18T23:23:35Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "f130ca111a1f1df9c8fd3960",
+      "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
+      "url": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-18T23:12:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "f81a42e064088f144e7e1dca",
+      "title": "Two Retirees Each Hold $500,000 in a 401(k) Index Fund as Nvidia’s CFO Takes the Wheel. One Has About $28,950 Riding on a Single Stock. The Other Has About $1,000",
+      "url": "https://247wallst.com/personal-finance/2026/11/18/two-retirees-each-hold-500000-in-a-401k-index-fund-as-nvidias-cfo-takes-the-wheel-one-has-about-28950-riding-on-a-single-stock-the-other-has-about-1000/?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-18T23:02:24Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "3e0f902631c6c06da3a4e262",
+      "title": "How copper’s plunge could hurt the AI buildout",
+      "url": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-18T23:02:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "3c5659da770e27528e6abc1c",
+      "title": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-18T23:00:02Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "750bbdfc54cb9722e81ef843",
+      "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
+      "url": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-18T22:53:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "d1df82a72a47d9097abc32e5",
+      "title": "Stock Market Today, Nov. 18: Opendoor Extends Rally for Second Straight Session as Investors Watch Housing",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-opendoor-extends-rally-for-second-straight-session-as-investors-watch-housing/?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-18T22:44:46Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "66f33827e4a396a27889ba9c",
+      "title": "How Pricey Are Anthropic Shares?",
+      "url": "https://finance.yahoo.com/m/0b62c039-e7d0-30bf-8958-84b07aa3d3ea/how-pricey-are-anthropic.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-18T22:42:38Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "08bbadd6a741dfe2a4515def",
+      "title": "Stock Market Today, Nov. 18: Recursion Pharmaceuticals Rises 4% on FDA Alignment for REC-4881 Phase 3 Design",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-recursion-pharmaceuticals-rises-4-on-fda-alignment-for-rec-4881-phase-3-design/?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-18T22:40:39Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "99c6810814e878c2323300e6",
+      "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
+      "url": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-18T22:31:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "f3f3fb776bab3f73b618101d",
+      "title": "BC-Select Stock Indices",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/bc-select-stock-indices-223013347.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-18T22:30:13Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "af4b151fb571c2fbd1d12ce4",
+      "title": "Target’s Shoppers Are Coming Back as Store Traffic Jumps 5% After Falling 2.2% a Year Ago. Can the Momentum Last?",
+      "url": "https://www.fool.com/investing/2026/11/18/targets-shoppers-are-coming-back-as-store-traffic-jumps-5-after-falling-22-a-year-ago-can-the-momentum-last/?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-18T22:29:36Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "3e0446ea3fd98e5862b95414",
+      "title": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-18T22:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "4d17df6b57c018c4d7c4ee09",
+      "title": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say.",
+      "url": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-18T21:58:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "36e3c636a41798e10f448bed",
+      "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+      "url": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-18T21:19:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "24cf293d513a77206962e4cd",
+      "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-18T19:47:05Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "7fbbd5a076d52b639e964fde",
+      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-18T19:41:59Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "0f75564c436fbdb1d719cc4d",
+      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+      "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-18T19:17:27Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "c0c4ef66e0d9307c0568eff5",
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-18T19:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "db3fa67ad536a3d0fd4be0e8",
+      "title": "Jeffries wins Democratic House speaker race, on track to make history in January",
+      "url": "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-18T18:32:39Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "b46913d1d7c48ef6b6ffd2e7",
+      "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+      "url": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-18T17:50:37Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "9e72e8567a3e97c30e91d794",
+      "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
+      "url": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-18T17:35:50Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "ff977f7bc3301721e93595dd",
+      "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+      "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-18T16:33:14Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "596da97dc0d7df27d1c37c43",
+      "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+      "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-18T15:13:39Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "33c6cf9e4fd40223877d02a8",
+      "title": "U.S. soldier taken into military custody over suspected spying for Russia",
+      "url": "https://www.cnbc.com/2026/11/18/us-soldier-military-custody-spy-russia.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-18T13:58:53Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "437d564d0b56f12f603baff8",
+      "title": "Democrat Mary Peltola wins Alaska Senate election",
+      "url": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-18T12:50:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "f2f82aed5c8aa3a00a4198ed",
+      "title": "Trump arrives in China for historic meeting with Xi, Putin",
+      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-18T12:24:24Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "73d0fc1e670b40213846cfed",
+      "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
+      "url": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-18T10:49:37Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "a08d6064bf868038ca1fcad2",
+      "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-18T10:45:01Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "837c3af2be35996b37c61b2c",
+      "title": "Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick probe",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-18T09:45:01Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "19284c0998d170ddc844fc56",
+      "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
+      "url": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-18T09:23:37Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "88c5a677c91f33019b2ab8a4",
+      "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
+      "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-18T08:29:35Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "478f1d800fc67d6b1af94b21",
+      "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+      "url": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-18T08:00:05Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "255ab1184a87e49be9fd1b5d",
+      "title": "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing",
+      "url": "https://www.cnbc.com/2026/11/18/us-iran-navy-hormuz-war-cao.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-18T07:24:06Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "6ad7e9527d75ef73c727db20",
+      "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+      "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-18T06:18:11Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "6d7005063b24999982163189",
+      "title": "Three things to watch as Trump, Xi and Putin meet in China",
+      "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-18T06:04:39Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "69105a903e4b0235be3ba150",
+      "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+      "url": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-18T05:24:54Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "506eb04a70d46547478ec3f3",
+      "title": "Jensen Huang slated to appear before House panels Dec. 1; Nvidia lawyer due to testify Dec. 2",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-17T18:33:56Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "9df8008457c33a7fd179fe0b",
+      "title": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
+      "url": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-17T17:49:45Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "f2f68f0ebc7356e7ccdb2926",
+      "title": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
+      "url": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-17T16:03:38Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "3d419f74111b048298ee3dbd",
+      "title": "Republicans outspent Democrats for first time in over a decade in record 2026 midterm election political ad blitz",
+      "url": "https://www.cnbc.com/2026/11/17/2026-election-political-ad-spending.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-17T14:00:02Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "689914f5ed5b968eb99fa526",
+      "title": "Data center policy dominated the midterms. The 'Virginia of Europe' is the latest battleground",
+      "url": "https://www.cnbc.com/2026/11/17/spain-data-center-decree-election.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-17T13:28:32Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "7fecd9b6b7a9ea047d83d6f7",
+      "title": "Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-has-lost-2-trillion-in-value-heres-what-options-traders-expect-from-earnings.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-11-17T13:16:43Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "7af243aaa7e0f10bc08b1077",
+      "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
+      "url": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-17T12:48:14Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "dbd80f052d6bcb1e32724666",
+      "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+      "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-17T11:22:54Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "659a2d85aa22cdfbc606a11e",
+      "title": "JD Vance says he'll decide 'sometime next year' about 2028 presidential run",
+      "url": "https://www.cnbc.com/2026/11/17/jd-vance-2028-presidential-run-decision.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-17T10:40:56Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "a4261dadb1700386ef00d52d",
+      "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+      "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-17T10:08:32Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "b8cc1d5c48100697446724cc",
+      "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+      "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-17T08:52:45Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "b0b37b5903b028a8efec2921",
+      "title": "How Jensen Huang scandal makes Congress a bigger risk to U.S.-China relations",
+      "url": "https://www.cnbc.com/2026/11/17/jensen-nvidia-trump-xi-tech-curbs-congress.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-17T06:51:40Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "9ae00ab1b20a6f56ff1ae26a",
+      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+      "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-16T23:01:19Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "b35422a86ce092a8afaf63f7",
+      "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+      "url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-16T22:19:02Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "69a2955cf63020646f26dc57",
+      "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+      "url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-16T22:14:47Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "ead75a7f4447054330536a5e",
+      "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+      "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-16T22:11:09Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "e4d2f6162b954ba25d129b5a",
+      "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-16T21:51:43Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "3199c5a9b3c21ed89f74823b",
+      "title": "This Anthropic proxy play is getting traders' attention – here's where they see it going",
+      "url": "https://www.cnbc.com/2026/11/16/anthropic-proxy-destiny-tech100-fund.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-11-16T19:06:11Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "36ba1705d8220a4baec9b83f",
+      "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
+      "url": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-16T18:55:46Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "c29cb96ec1affcfecf7b4c40",
+      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+      "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-16T18:46:07Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "8f94ce73667c3acef45c3645",
+      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+      "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-16T17:14:13Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "159332a91e8d44d64dda16c6",
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+      "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-16T12:14:46Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "f9f0c603b44801f67789114d",
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-16T12:13:23Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "79aab8d2fc54b21960f2b6b1",
+      "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+      "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-16T03:53:59Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "a99179af3f932fcd9983d249",
+      "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
+      "url": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-11-14T14:02:39Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "711bbe4fe971cbae66865fc5",
+      "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-11-13T21:19:04Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "4a64cb80840c03629f0257ac",
+      "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
+      "url": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-11-13T19:30:36Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "d610c0ab90226dee91732851",
+      "title": "Is a bottom in for the Nasdaq-100? Charts to watch",
+      "url": "https://www.cnbc.com/2026/11/13/is-a-bottom-in-for-the-nasdaq-100-charts-to-watch.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-11-13T18:00:01Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "518f14d755393f3a8ab30ee4",
+      "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+      "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-13T14:22:07Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "82952b5536c1f613b405bcf8",
+      "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+      "url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-13T02:56:35Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "e2d7316a4203aefc82113e2c",
+      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-13T00:01:19Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "47ac57ef95c98307d60a48fb",
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-12T19:05:25Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "87a784bdd6110f05671301f1",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-12T17:45:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "aa4022e9b7c00b1ab99d1c74",
+      "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+      "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-12T07:28:48Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "b58e2718d154ea54eae453c6",
+      "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
+      "url": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-11T19:16:23Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "9e718f170e9174a800c3ffb5",
+      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-11T16:49:02Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "5008d4e3837142fd702e8abc",
+      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-11T07:47:54Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "1d5da9f28b8f976568ec2699",
+      "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+      "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-10T17:13:44Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "c3cbdc7eed693a5b733c6e75",
+      "title": "U.S. gas prices fall below $4 for the first time since July",
+      "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-10T16:29:09Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "8d167eeec9f8850215c6e3d0",
+      "title": "Polymarket says annualized revenue has topped $1.8 billion",
+      "url": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-10T13:00:01Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "079eca6bd3f22b3b3ce31a9b",
+      "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
+      "url": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-11-09T21:24:13Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "31ebef8b892fa3b253b0b9d1",
+      "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+      "url": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-09T18:46:01Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "89570fee08def90908863db1",
+      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+      "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-09T18:14:47Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "cb272b66616961d114cfae56",
+      "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
+      "url": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-11-08T11:47:24Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "01241fd560ef15c47a578e27",
+      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+      "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+      "source": "CNBC / Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-07T16:02:33Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "712486064d13b5f25523c36b",
+      "title": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
+      "url": "https://www.cnbc.com/2026/11/01/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-11-01T12:33:53Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "a0c3e1be77e8b5a27f797ac2",
+      "title": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-10-28T18:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "3106e6a63834e63c7a3a3bf0",
+      "title": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
+      "url": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-10-28T14:50:02Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "5036e804cce937202679b84f",
+      "title": "Top Wall Street analysts prefer these 3 dividend stocks for stable income",
+      "url": "https://www.cnbc.com/2026/10/26/top-wall-street-analysts-prefer-these-3-dividend-stocks-for-stable-income.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-10-26T13:41:13Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "1f05a314e8c24c956f20b643",
+      "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
+      "url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-10-18T12:34:51Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "ca688a27006cdc18bac09fd5",
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-10-13T18:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "667ab63281f498a85e03afdb",
+      "title": "Top Wall Street analysts prefer these 3 dividend stocks for stable income",
+      "url": "https://www.cnbc.com/2026/10/11/top-analysts-prefer-these-3-dividend-stocks-for-stable-income.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-10-11T11:42:31Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "90c546ceca442580669fbc80",
+      "title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
+      "url": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-10-09T20:51:25Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "08dfdbdaa9ce20cc125a1535",
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-10-07T18:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "57d8f938169a9c527676c2ff",
+      "title": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
+      "url": "https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-10-04T13:24:16Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "612e9c904d8be28aa1d647a6",
+      "title": "Top Wall Street analysts like these 3 dividend stocks for steady income",
+      "url": "https://www.cnbc.com/2026/09/27/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-09-27T11:33:15Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "61208205d114996de691db11",
+      "title": "Top Wall Street analysts find these 3 stocks attractive as long-term investments",
+      "url": "https://www.cnbc.com/2026/09/20/top-wall-street-analysts-find-these-3-stocks-attractive-as-long-term-investments.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-09-20T12:01:35Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "da3bcbb85f4595d6b859363d",
+      "title": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-09-16T18:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "7400cab4847e7a3384d183c8",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-09-16T18:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "89913013c2dd3a402f06ca2e",
+      "title": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
+      "url": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-09-13T11:53:35Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "80c3cfae212f6952ff20f692",
+      "title": "Top Wall Street analysts like these 3 stocks for the long haul",
+      "url": "https://www.cnbc.com/2026/09/07/top-wall-street-analysts-like-these-3-stocks-for-the-long-haul.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-09-07T10:37:16Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "c0430f44df3291469634ef01",
+      "title": "Top Wall Street analysts suggest these 3 dividend stocks for consistent income",
+      "url": "https://www.cnbc.com/2026/08/30/top-analysts-suggest-these-dividend-stocks-for-consistent-income.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-08-30T10:42:13Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "aaaa5408fc7bca4f28e75137",
+      "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
+      "url": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-08-26T13:21:41Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "f48681be97f292e1b3f70c67",
+      "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-08-25T18:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "09ed82f0ca3056b533f68df2",
+      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
+      "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-08-25T15:16:02Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "aacd7d2e773062f95a6428e5",
+      "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
+      "url": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-08-23T11:29:05Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "dfdf8d18c6f010c7a318f46d",
+      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-08-19T18:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "8ee61dc79707d611fd60f376",
+      "title": "Top Wall Street analysts like these 3 dividend stocks for steady income",
+      "url": "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-08-16T11:58:15Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "c2b222ecaa8ffbe904d43536",
+      "title": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
+      "url": "https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-08-09T12:01:56Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "445f688f5182a4a13220eb68",
+      "title": "Top Wall Street analysts are bullish on these 3 dividend stocks for passive income",
+      "url": "https://www.cnbc.com/2026/08/02/top-analysts-are-bullish-on-these-dividend-stocks-for-passive-income-.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-08-02T12:01:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "e290aabba3caad80496847cf",
+      "title": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-07-29T18:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "2ba0e4abbe5a5dd9987ad921",
+      "title": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
+      "url": "https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-07-26T11:33:11Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "6a6d39f99e3d74955d6e8ec1",
+      "title": "Top Wall Street analysts suggest these 3 dividend stocks for steady income",
+      "url": "https://www.cnbc.com/2026/07/19/top-analysts-suggest-these-3-dividend-stocks-for-steady-income.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-07-19T12:46:25Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "5a26ae43a3fa1c29fad718ea",
+      "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-07-14T18:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "89dbba184031f3efdbbcc827",
+      "title": "Top Wall Street analysts are confident about these 3 stocks for the long haul",
+      "url": "https://www.cnbc.com/2026/07/12/top-analysts-are-confident-about-these-3-stocks-for-the-long-haul.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-07-12T12:05:02Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "61a7bae109af084abef4a4d9",
+      "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-07-09T19:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "10d78437804234563a598c50",
+      "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-07-08T18:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "dc3074c802fc9f9b476d48be",
+      "title": "Top Wall Street analysts prefer these dividend stocks for boosting portfolio returns",
+      "url": "https://www.cnbc.com/2026/07/05/analysts-prefer-these-dividend-stocks-for-boosting-portfolio-returns.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-07-05T12:30:01Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "94826fcab8a056185eb93259",
+      "title": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-06-17T18:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    },
+    {
+      "id": "6a35ed96da249fba1c6b7d39",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+      "source": "Fed / Política monetaria",
+      "category": "Estados Unidos",
+      "published_at": "2026-06-17T18:00:00Z",
+      "collected_at": "2026-11-19T02:40:36.043955Z"
+    }
+  ]
 }
