@@ -1,0 +1,32 @@
+FUENTES INCLUIDAS — DASHBOARD NOTICIAS (noviembre 2026)
+
+Gratuitas para acceder a titulares mediante RSS o búsquedas de Google News. El acceso gratuito no concede derechos para redistribuir artículos íntegros ni garantiza disponibilidad para uso comercial.
+
+MÉXICO
+- Google News — Banxico, inflación, economía mexicana
+- El Economista — descubrimiento por Google News (no RSS directo)
+
+ESTADOS UNIDOS
+- Google News — Reserva Federal, inflación, Treasuries
+- Reserva Federal — RSS oficial de política monetaria
+
+MERCADOS
+- CNBC Finance — RSS
+- CNBC Investing — RSS
+- MarketWatch Top Stories — RSS
+- Yahoo Finance por tickers AAPL, MSFT, NVDA — RSS (puede variar)
+- Yahoo Finance por índices S&P 500 y Nasdaq — RSS (puede variar)
+- Yahoo Finance economía/mercados — vía Google News
+- Reuters mercados/economía — vía Google News
+
+POLÍTICA
+- CNBC Politics — RSS
+- Google News — aranceles, geopolítica y política fiscal
+
+IMPORTANTE:
+- Yahoo Finance general RSS fue descontinuado; por eso se usan feeds por ticker y búsquedas Google News.
+- El RSS muestra titulares/enlaces, no textos completos de suscripciones.
+- Algunas fuentes pueden bloquear solicitudes automatizadas, contener enlaces de pago o no entregar noticias en un día específico.
+- Cada fuente fallida se registra en el JSON sin detener las otras. El dashboard debe mostrar status=partial si hay fallas.
+- No prometemos que todas las fuentes respondan en la ejecución de GitHub hasta probarlo en una cuenta real.
+- El botón Refresh de index.html solo relee noticias.json; las noticias NUEVAS se recopilan con GitHub Actions (automático o Run workflow).
